@@ -17,6 +17,9 @@ public class MethodDemo {
 		public static String getData() {
 			
 			System.out.println("hello world");
+			System.out.println("hello");
+			System.out.println("hi");
+			
 			return "aashi";
 			
 		}
